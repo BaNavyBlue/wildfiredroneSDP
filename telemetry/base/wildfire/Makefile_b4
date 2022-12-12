@@ -1,0 +1,16 @@
+############################################
+# Antones Amazing Makefile
+# ##########################################
+
+WFLAGS     = -Wall -Wextra
+GPP        = g++ ${WFLAGS}
+
+EXECFILE   = test_heart
+LIBS       = -lwiringPi -lpthread -lstdc++
+INCL       = -I ../ardupilotmega
+SRC        = wildfire_base.cpp serial_port.cpp
+
+all : ${EXECFILE}
+
+${EXECFILE} : ${SRC}
+	${GPP} ${INCL} ${WFLAGS} ${SRC} ${LIBS} -o ${EXECFILE}
