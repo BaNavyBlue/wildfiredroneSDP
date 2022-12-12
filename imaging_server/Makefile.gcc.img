@@ -1,0 +1,51 @@
+############################################
+# Antones Amazing Makefile
+############################################
+
+WFLAGS     = -Wall -Wextra -fpermissive -Wwrite-strings
+GPP        = g++ ${WFLAGS}
+INCL       = -I ~/GIT/userland/host_applications/linux/libs/bcm_host/include \
+             -I ~/GIT/userland/host_applications/linux/apps/raspicam \
+             -I ~/GIT/userland/host_applications/linux/libs/sm \
+             -I ~/GIT/userland \
+             -I ~/GIT/userland/interface/vcos \
+             -I ~/GIT/userland/interface/vmcs_host \
+             -I ~/GIT/userland/host_applications/linux/apps/raspicam/gl_scenes \
+             -I ~/GIT/userland/interface/khronos/include \
+             -I ~/GIT/wildfire/gstreamer \
+             -I/usr/include/gstreamer-1.0 \
+             -I/usr/include/glib-2.0 \
+             -I/usr/lib/arm-linux-gnueabihf/glib-2.0/include \
+             -I ~/GIT/wildfire/imaging_server
+#SRC_PATHS  =   $(wildcard ~/GIT/userland/host_applications/linux/apps/raspicam/RStill_Func.c) \#
+SRC_PATHS   = ~/GIT/userland/host_applications/linux/apps/raspicam/RStill_Func.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiCommonSettings.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiCamControl.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/libgps_loader.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiCLI.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiGPS.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiHelpers.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiPreview.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/tga.c \
+              ~/GIT/userland/interface/vmcs_host/vc_vchi_gencmd.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiTex.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/RaspiTexUtil.c \
+              ~/GIT/userland/host_applications/linux/apps/raspicam/gl_scenes/*.c \
+              ~/GIT/wildfire/gstreamer/gst_capture.c 
+
+EXECFILE   = jesus_christ
+#LIBS       = -lpthread -lmmal -lmmal_core -lmmal_util -lm -ldl
+LIBS       = -L/opt/vc/lib -lpthread -lm -ldl -lmmal_core -lmmal_util -lmmal_vc_client -lbrcmGLESv2 -lbrcmEGL -lvcos -lbcm_host -lvchiq_arm -lvcsm -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0
+SRC        = image_server.cpp simple_server.cpp request_client.cpp ${SRC_PATHS}
+OBJDIR     = obj
+OBJ        = $(notdir $(SRC:.cpp=.o)) $(notdir $(SRC:.c=.o))
+OBJECTS    = $(addprefix obj/, $(OBJ))
+
+# objects= $(addprefix $(OBJDIR)/, $(OBJECTS))
+all: ${EXECFILE}
+
+${EXECFILE}: $(SRC)
+	${GPP} ${INCL} $(SRC) ${LIBS} -o ${EXECFILE}
+
+#$(OBJECTS): $(OBJDIR)/%.o : ${SRC} #%.cpp
+#	${GPP} ${INCL} -c $< -o $@
