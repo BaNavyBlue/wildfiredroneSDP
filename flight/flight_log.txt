@@ -1,0 +1,587 @@
+Successful TakeOff!
+Aircraft in air!
+Aircraft hovering at: 1.0565m above ground!
+Measured Altitude is: -95.1342m!
+Height: 1.0565
+zoff: -95.1342
+Task timeout!
+Waypoint created at (LLA): 0.645692 	-2.129851 	76.199997
+Waypoint created at (LLA): 0.645692 	-2.129851 	76.199997
+wp.index: 1
+Next higher
+Next higher
+Next higher
+Next lower
+Next higher
+Next lower
+Next higher
+Next lower
+No previous
+No previous
+No previous
+No previous
+Next lower
+Next higher
+Next higher
+No previous
+Next lower
+wp_list.size(): 31
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -22.551 Height: 73.6396
+xOff: 0m yOff: 0m zOff: 10m
+long: -2.12985 lat: 0.645692
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -17.6825 Height: 78.5082
+xOff: 5.29024m yOff: -4.10775m zOff: 0m
+long: -2.12985 lat: 0.645692
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -16.1825 Height: 80.0081
+xOff: 0m yOff: 0m zOff: 1m
+long: -2.12985 lat: 0.645693
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -16.0063 Height: 80.1844
+xOff: -0.222639m yOff: -76.9952m zOff: 0m
+long: -2.12985 lat: 0.645693
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -15.8044 Height: 80.3863
+xOff: 0m yOff: 0m zOff: 27m
+long: -2.12987 lat: 0.645693
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -7.45615 Height: 88.7345
+xOff: -3.67354m yOff: -82.2409m zOff: 0m
+long: -2.12987 lat: 0.645693
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -3.3184 Height: 92.8722
+xOff: 0.890556m yOff: -82.5076m zOff: 0m
+long: -2.12988 lat: 0.645692
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -3.22735 Height: 92.9633
+xOff: 0m yOff: 0m zOff: -3m
+long: -2.1299 lat: 0.645692
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -3.29964 Height: 92.891
+xOff: 0m yOff: 0m zOff: 3m
+long: -2.1299 lat: 0.645692
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -3.15944 Height: 93.0312
+xOff: -50.6504m yOff: -1.95601m zOff: 0m
+long: -2.1299 lat: 0.645692
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -3.26873 Height: 92.9219
+xOff: 3.22827m yOff: 79.3073m zOff: 0m
+long: -2.1299 lat: 0.645684
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -3.31447 Height: 92.8762
+xOff: 0m yOff: 0m zOff: -32m
+long: -2.12988 lat: 0.645685
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -3.31863 Height: 92.872
+xOff: 0m yOff: 0m zOff: 5m
+long: -2.12988 lat: 0.645685
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -3.31189 Height: 92.8788
+xOff: 2.44903m yOff: 78.7738m zOff: 0m
+long: -2.12988 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -3.27669 Height: 92.914
+xOff: -0.333958m yOff: 79.1295m zOff: 0m
+long: -2.12987 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -3.30663 Height: 92.884
+xOff: 0m yOff: 0m zOff: -1m
+long: -2.12985 lat: 0.645685
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -3.34019 Height: 92.8505
+xOff: -0.667917m yOff: 78.8627m zOff: 0m
+long: -2.12985 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: 1.07027 Height: 97.2609
+xOff: -56.3277m yOff: 1.68929m zOff: 0m
+long: -2.12984 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9943 LON: -122.032
+ALT: -50.6402 Height: 45.5505
+xOff: -0.556597m yOff: -79.13m zOff: 0m
+long: -2.12984 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9947 LON: -122.033
+ALT: -50.0739 Height: 46.1168
+xOff: -0.445278m yOff: -79.3967m zOff: 0m
+long: -2.12985 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.994 LON: -122.033
+ALT: -8.16563 Height: 88.025
+xOff: 1.11319m yOff: -79.8413m zOff: 0m
+long: -2.12987 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -38.4287 Height: 57.762
+xOff: 0m yOff: 0m zOff: -5m
+long: -2.12988 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -93.8319 Height: 2.35871
+xOff: 0m yOff: 0m zOff: 23m
+long: -2.12988 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -94.1752 Height: 0
+xOff: 2.56035m yOff: -76.3737m zOff: 0m
+long: -2.12988 lat: 0.645676
+ Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -94.2017 Height: 0
+xOff: 0m yOff: 0m zOff: 10m
+long: -2.1299 lat: 0.645677
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -0 Height: 0
+xOff: 1.22451m yOff: -77.9741m zOff: 0m
+long: -2.1299 lat: 0.645677
+^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ./test_fc 
+Read App ID
+User Configuration read successfully. 
+
+
+STATUS/1 @ init, L56: Attempting to open device /dev/ttyAMA0 with baudrate 921600...
+
+STATUS/1 @ init, L66: ...Serial started successfully.
+
+STATUS/1 @ parseDroneVersionInfo, L762: Device Serial No. = 041DD72929
+
+STATUS/1 @ parseDroneVersionInfo, L764: Hardware = M100
+
+STATUS/1 @ parseDroneVersionInfo, L765: Firmware = 3.1.10.0
+
+STATUS/1 @ parseDroneVersionInfo, L768: Version CRC = 0xA6453AAC
+
+STATUS/1 @ initSubscriber, L813: Telemetry subscription mechanism is not supported on this platform!
+
+STATUS/1 @ initMFIO, L1034: MFIO is not supported on this platform!
+
+STATUS/1 @ initHardSync, L1162: Hardware Sync is not supported on this platform!
+
+STATUS/1 @ activate, L1398: version 0x3010A00
+
+STATUS/1 @ activate, L1411: Activation successful
+| Available commands:                                            |
+| [a] Monitored Takeoff + Landing                                |
+| [b] Monitored Takeoff + Position Control + Landing             |
+| [c] Monitored Takeoff + Position Control + Force Landing Avoid Ground  |
+| [d] Monitored Takeoff + Position Control + Some type of landing Landing
+Avoid Ground  |
+PLIBT!
+d
+
+�(ATUS/1 @ getErrorCodeMessage, L752: 
+ERRORLOG/1 @ getCommonErrorCodeMessage, L818: MOTOR_FAIL_COMPASS_ABNORMAL
+Height: -6.10352e-05
+zoff: -87.8556
+^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ./test_fc 
+Read App ID
+User Configuration read successfully. 
+
+
+STATUS/1 @ init, L56: Attempting to open device /dev/ttyAMA0 with baudrate 921600...
+
+STATUS/1 @ init, L66: ...Serial started successfully.
+
+STATUS/1 @ parseDroneVersionInfo, L762: Device Serial No. = 041DD72929
+
+STATUS/1 @ parseDroneVersionInfo, L764: Hardware = M100
+
+STATUS/1 @ parseDroneVersionInfo, L765: Firmware = 3.1.10.0
+
+STATUS/1 @ parseDroneVersionInfo, L768: Version CRC = 0xA6453AAC
+
+STATUS/1 @ initSubscriber, L813: Telemetry subscription mechanism is not supported on this platform!
+
+STATUS/1 @ initMFIO, L1034: MFIO is not supported on this platform!
+
+STATUS/1 @ initHardSync, L1162: Hardware Sync is not supported on this platform!
+
+STATUS/1 @ activate, L1398: version 0x3010A00
+
+STATUS/1 @ activate, L1411: Activation successful
+| Available commands:                                            |
+| [a] Monitored Takeoff + Landing                                |
+| [b] Monitored Takeoff + Position Control + Landing             |
+| [c] Monitored Takeoff + Position Control + Force Landing Avoid Ground  |
+| [d] Monitored Takeoff + Position Control + Some type of landing Landing
+Avoid Ground  |
+PLIBT!
+d
+Successful TakeOff!
+Aircraft in air!
+Aircraft hovering at: -0.00205994m above ground!
+Measured Altitude is: -87.8653m!
+Height: -0.00205994
+zoff: -87.8653
+Waypoint created at (LLA): 0.645692 	-2.129852 	76.199997
+Waypoint created at (LLA): 0.645692 	-2.129852 	76.199997
+wp.index: 1
+Next higher
+Next higher
+Next higher
+Next lower
+Next higher
+Next lower
+Next higher
+Next lower
+No previous
+No previous
+No previous
+No previous
+Next lower
+Next higher
+Next higher
+No previous
+Next lower
+wp_list.size(): 31
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -70.2164 Height: 17.6468
+xOff: 0m yOff: 0m zOff: 10m
+long: -2.12985 lat: 0.645692
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -63.1831 Height: 24.6802
+xOff: 2.74717m yOff: -2.67485m zOff: 0m
+long: -2.12985 lat: 0.645692
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -61.5245 Height: 26.3387
+xOff: 0m yOff: 0m zOff: 1m
+long: -2.12985 lat: 0.645693
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -61.4365 Height: 26.4268
+xOff: -0.222639m yOff: -76.9952m zOff: 0m
+long: -2.12985 lat: 0.645693
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -61.0693 Height: 26.7939
+xOff: 0m yOff: 0m zOff: 27m
+long: -2.12987 lat: 0.645693
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -87.2773 Height: 0.585999
+xOff: -3.67354m yOff: -82.2409m zOff: 0m
+long: -2.12987 lat: 0.645693
+^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ./test_fc 
+Read App ID
+User Configuration read successfully. 
+
+
+STATUS/1 @ init, L56: Attempting to open device /dev/ttyAMA0 with baudrate 921600...
+
+STATUS/1 @ init, L66: ...Serial started successfully.
+
+STATUS/1 @ parseDroneVersionInfo, L762: Device Serial No. = 041DD72929
+
+STATUS/1 @ parseDroneVersionInfo, L764: Hardware = M100
+
+STATUS/1 @ parseDroneVersionInfo, L765: Firmware = 3.1.10.0
+
+STATUS/1 @ parseDroneVersionInfo, L768: Version CRC = 0xA6453AAC
+
+STATUS/1 @ initSubscriber, L813: Telemetry subscription mechanism is not supported on this platform!
+
+STATUS/1 @ initMFIO, L1034: MFIO is not supported on this platform!
+
+STATUS/1 @ initHardSync, L1162: Hardware Sync is not supported on this platform!
+
+STATUS/1 @ activate, L1398: version 0x3010A00
+
+STATUS/1 @ activate, L1411: Activation successful
+| Available commands:                                            |
+| [a] Monitored Takeoff + Landing                                |
+| [b] Monitored Takeoff + Position Control + Landing             |
+| [c] Monitored Takeoff + Position Control + Force Landing Avoid Ground  |
+| [d] Monitored Takeoff + Position Control + Some type of landing Landing
+Avoid Ground  |
+PLIBT!
+d
+^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ ./test_fc 
+Read App ID
+User Configuration read successfully. 
+
+
+STATUS/1 @ init, L56: Attempting to open device /dev/ttyAMA0 with baudrate 921600...
+
+STATUS/1 @ init, L66: ...Serial started successfully.
+
+STATUS/1 @ parseDroneVersionInfo, L762: Device Serial No. = 041DD72929
+
+STATUS/1 @ parseDroneVersionInfo, L764: Hardware = M100
+
+STATUS/1 @ parseDroneVersionInfo, L765: Firmware = 3.1.10.0
+
+STATUS/1 @ parseDroneVersionInfo, L768: Version CRC = 0xA6453AAC
+
+STATUS/1 @ initSubscriber, L813: Telemetry subscription mechanism is not supported on this platform!
+
+STATUS/1 @ initMFIO, L1034: MFIO is not supported on this platform!
+
+STATUS/1 @ initHardSync, L1162: Hardware Sync is not supported on this platform!
+
+STATUS/1 @ activate, L1398: version 0x3010A00
+
+STATUS/1 @ activate, L1411: Activation successful
+| Available commands:                                            |
+| [a] Monitored Takeoff + Landing                                |
+| [b] Monitored Takeoff + Position Control + Landing             |
+| [c] Monitored Takeoff + Position Control + Force Landing Avoid Ground  |
+| [d] Monitored Takeoff + Position Control + Some type of landing Landing
+Avoid Ground  |
+PLIBT!
+d
+Successful TakeOff!
+Aircraft in air!
+Aircraft hovering at: 1.014m above ground!
+Measured Altitude is: -86.509m!
+Height: 1.014
+zoff: -86.509
+Waypoint created at (LLA): 0.645692 	-2.129851 	76.199997
+Waypoint created at (LLA): 0.645692 	-2.129851 	76.199997
+wp.index: 1
+Next higher
+Next higher
+Next higher
+Next lower
+Next higher
+Next lower
+Next higher
+Next lower
+No previous
+No previous
+No previous
+No previous
+Next lower
+Next higher
+Next higher
+No previous
+Next lower
+wp_list.size(): 31
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -76.4271 Height: 11.096
+xOff: 0m yOff: 0m zOff: 10m
+long: -2.12985 lat: 0.645692
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -69.3118 Height: 18.2112
+xOff: 3.75677m yOff: -3.18237m zOff: 0m
+long: -2.12985 lat: 0.645692
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -67.6492 Height: 19.8738
+xOff: 0m yOff: 0m zOff: 1m
+long: -2.12985 lat: 0.645693
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -67.3875 Height: 20.1355
+xOff: -0.222639m yOff: -76.9952m zOff: 0m
+long: -2.12985 lat: 0.645693
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -67.1652 Height: 20.3578
+xOff: 0m yOff: 0m zOff: 27m
+long: -2.12987 lat: 0.645693
+Where Are We Now:
+LAT: 36.9955 LON: -122.032
+ALT: -67.1951 Height: 20.3279
+xOff: -3.67354m yOff: -82.2409m zOff: 0m
+long: -2.12987 lat: 0.645693
+Task timeout!
+Where Are We Now:
+LAT: 36.9939 LON: -122.032
+ALT: -10.5143 Height: 77.0087
+xOff: 0.890556m yOff: -82.5076m zOff: 0m
+long: -2.12988 lat: 0.645692
+Task timeout!
+Where Are We Now:
+LAT: 36.9939 LON: -122.031
+ALT: -10.3091 Height: 77.214
+xOff: 0m yOff: 0m zOff: -3m
+long: -2.1299 lat: 0.645692
+Task timeout!
+Where Are We Now:
+LAT: 36.9953 LON: -122.033
+ALT: -9.52872 Height: 77.9943
+xOff: 0m yOff: 0m zOff: 3m
+long: -2.1299 lat: 0.645692
+Task timeout!
+Where Are We Now:
+LAT: 36.9952 LON: -122.032
+ALT: -79.1582 Height: 8.36482
+xOff: -50.6504m yOff: -1.95601m zOff: 0m
+long: -2.1299 lat: 0.645692
+Task timeout!
+Where Are We Now:
+LAT: 36.9953 LON: -122.032
+ALT: 11.2365 Height: 98.7596
+xOff: 3.22827m yOff: 79.3073m zOff: 0m
+long: -2.1299 lat: 0.645684
+Task timeout!
+Where Are We Now:
+LAT: 36.9952 LON: -122.032
+ALT: 1.96256 Height: 89.4856
+xOff: 0m yOff: 0m zOff: -32m
+long: -2.12988 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.032
+ALT: -56.8064 Height: 30.7166
+xOff: 0m yOff: 0m zOff: 5m
+long: -2.12988 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -87.256 Height: 0.000114441
+xOff: 2.44903m yOff: 78.7738m zOff: 0m
+long: -2.12988 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9954 LON: -122.031
+ALT: -86.1982 Height: -0.000648499
+xOff: -0.333958m yOff: 79.1295m zOff: 0m
+long: -2.12987 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9956 LON: -122.031
+ALT: -85.5723 Height: 7.62939e-05
+xOff: 0m yOff: 0m zOff: -1m
+long: -2.12985 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9956 LON: -122.031
+ALT: -84.3985 Height: 0.00540924
+xOff: -0.667917m yOff: 78.8627m zOff: 0m
+long: -2.12985 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: -56.3277m yOff: 1.68929m zOff: 0m
+long: -2.12984 lat: 0.645685
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: -0.556597m yOff: -79.13m zOff: 0m
+long: -2.12984 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: -0.445278m yOff: -79.3967m zOff: 0m
+long: -2.12985 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: 1.11319m yOff: -79.8413m zOff: 0m
+long: -2.12987 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: 0m yOff: 0m zOff: -5m
+long: -2.12988 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: 0m yOff: 0m zOff: 23m
+long: -2.12988 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: 2.56035m yOff: -76.3737m zOff: 0m
+long: -2.12988 lat: 0.645676
+Task timeout!
+Where Are We Now:
+LAT: 36.9955 LON: -122.031
+ALT: -84.4098 Height: -2.28882e-05
+xOff: 0m yOff: 0m zOff: 10m
+long: -2.1299 lat: 0.645677
+^C
+pi@droneBerryPi:~/GIT/wildfire/flight $ 
+
