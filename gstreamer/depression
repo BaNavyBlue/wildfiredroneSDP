@@ -1,0 +1,14 @@
+#!/bin/bash
+#run gstreamer for snapshots
+#set for a time period of 5seconds
+
+IN_NAME=$1
+
+SECONDS=0
+
+while [[ $SECONDS -lt 5 ]]; do
+
+gst-launch-1.0 v4l2src device=/dev/video0 ! video/x-raw,format=GRAY16_LE ! videoscale ! video/x-raw,width=160,height=120!  videoconvert !  pngenc ! multifilesink location="$1%d.png"
+echo $SECONDS
+
+done
