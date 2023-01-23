@@ -1,4 +1,4 @@
 app_id : 1083015 
-app_key : 7754132b5abdcccb237f54e4a9fdcb72e80c669a455d57c8f0bd27ef77006c2f 
+app_key : <PUT DJI DEV KEY HERE> 
 device : /dev/ttyAMA0
 baudrate : 921600
