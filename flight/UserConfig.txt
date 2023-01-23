@@ -1,0 +1,4 @@
+app_id : <PUT DJI APP ID HERE>
+app_key : <PUT DJI DEV KEY HERE> 
+device : /dev/ttyAMA0
+baudrate : 921600
