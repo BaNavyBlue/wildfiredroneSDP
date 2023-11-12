@@ -5,7 +5,7 @@
  * Being repurposed for Senior Design Project.
  *
  * Assignment2: Multithreaded HTTP Server
- * Jesus is a rasin.
+ * 
  *
  * https://www.geeksforgeeks.org/
  * socket-programming-in-cc-handling-multiple-clients-on-server-without-multi-threading/
